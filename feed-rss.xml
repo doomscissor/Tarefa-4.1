@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog</title>
+    <link>https://www.tudominio.com/feed.xml</link>
+    <description>Blog sobre diversos temas.</description>
+    <language>es</language>
+    <lastBuildDate>2023-11-14</lastBuildDate>
+    <item>
+      <title>Título del Artículo 1</title>
+      <link>https://www.tudominio.com/articulo-1</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Donec ultrices, leo eget aliquam ullamcorper, risus orci tincidunt risus, ac laoreet risus neque a eros. Quisque ut tellus accumsan, laoreet risus sit amet, aliquam ipsum. Cras id nibh euismod, consectetur purus non, venenatis enim.</description>
+      <pubDate>2023-11-14</pubDate>
+    </item>
+    <item>
+      <title>Título del Artículo 2</title>
+      <link>https://www.tudominio.com/articulo-2</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Donec ultrices, leo eget aliquam ullamcorper, risus orci tincid

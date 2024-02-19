@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+article {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
